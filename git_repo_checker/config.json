@@ -1,0 +1,15 @@
+{
+    "work": {
+        "email": "work@email.com",
+        "name": "username",
+        "gitHost": "github.com",
+        "sshConfig": "github.com"
+    },
+    "personal": {
+        "email": "your.personal@email.com",
+        "name": "Your Personal Name",
+        "gitHost": "github.com",
+        "sshConfig": "github.com-personal"
+    },
+    "defaultPath": ""
+} 
