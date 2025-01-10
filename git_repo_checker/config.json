@@ -1,13 +1,13 @@
 {
     "work": {
-        "email": "work@email.com",
-        "name": "username",
+        "email": "sathekgealoy@gmail.com",
+        "name": "aloysathekge",
         "gitHost": "github.com",
         "sshConfig": "github.com"
     },
     "personal": {
-        "email": "your.personal@email.com",
-        "name": "Your Personal Name",
+        "email": "porihacker@email.com",
+        "name": "aloy",
         "gitHost": "github.com",
         "sshConfig": "github.com-personal"
     },
